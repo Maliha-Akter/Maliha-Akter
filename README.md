@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Maliha Akter Miti
 
-### ⚙️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
 </div>
 
@@ -12,16 +12,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack Developer and final-year CSE student who enjoys building scalable web applications with modern JavaScript technologies.
+I'm a passionate Full Stack Developer who enjoys building scalable web applications with modern JavaScript technologies.
 
 I love solving real-world problems through software development and continuously improving my skills in web development, AI, and backend engineering.
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maliha-Akter&theme=github_dark&no-bg=true&margin-w=15" alt="github profile trophy" /></a>
-</p>
 
 ---
 
