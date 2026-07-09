@@ -69,7 +69,7 @@ I love solving real-world problems through software development and continuously
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Maliha-Akter&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Maliha-Akter&theme=github-dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -79,7 +79,7 @@ I love solving real-world problems through software development and continuously
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maliha-Akter&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maliha-Akter&theme=github-dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
