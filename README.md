@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./banner.png" alt="GitHub Banner" width="100%" />
-
-# Hi 👋 I'm Maliha Akter Miti
+<!-- Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Maliha%20Akter%20Miti&fontSize=40&fontColor=ffffff"/>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
@@ -52,6 +51,14 @@ I love solving real-world problems through software development and continuously
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Maliha-Akter&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -71,6 +78,14 @@ I love solving real-world problems through software development and continuously
 <img src="https://streak-stats.demolab.com?user=Maliha-Akter&theme=github-dark&hide_border=true"/>
 
 </div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maliha-Akter/Maliha-Akter/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <br>
 
@@ -96,14 +111,18 @@ I love solving real-world problems through software development and continuously
 </p>
 
 ---
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Maliha-Akter&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 <div align="center">
 
 ⭐ Thanks for visiting my profile!
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Maliha-Akter&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
+<!-- Waving Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
 </div>
