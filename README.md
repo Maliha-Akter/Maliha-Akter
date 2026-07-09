@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Maliha Akter Miti
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
 </div>
 
@@ -52,16 +52,15 @@ I love solving real-world problems through software development and continuously
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maliha-Akter&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliha-Akter&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maliha-Akter&theme=github-dark&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maliha-Akter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliha-Akter&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
