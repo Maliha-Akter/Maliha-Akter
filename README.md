@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Custom Banner -->
-<img src="./banner.png" alt="GitHub Banner" width="100%" />
+<img src="./banner.png" width="100%" />
+
+# Hi 👋 I'm Maliha Akter Miti
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
