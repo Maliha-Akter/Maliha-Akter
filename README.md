@@ -13,9 +13,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack Developer who enjoys building scalable web applications with modern JavaScript technologies.
-
-I love solving real-world problems through software development and continuously improving my skills in web development, AI, and backend engineering.
+- 🎓 **CSE Graduate** from **Ahsanullah University of Science and Technology (AUST)**.
+- 💻 **Full Stack Developer** passionate about building clean, performant, and scalable web applications using modern JavaScript ecosystems.
+- 🤖 **Research Enthusiast** actively driving independent, personal research initiatives in **Artificial Intelligence** and **Machine Learning** architectures.
+- 🚀 **Problem Solver** dedicated to bridging data-driven backend ecosystems with highly interactive, intuitive user interfaces.
 
 ---
 
@@ -29,28 +30,17 @@ I love solving real-world problems through software development and continuously
 
 ---
 
-# 💻 Skills
+# 🛠️ Technologies & Skills
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+| Category | Tech Stack & Ecosystem |
+| :--- | :--- |
+| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/></a> <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="40" alt="Python"/></a> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/></a> |
+| **Frontend** | <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"/></a> <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"/></a> <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS"/></a> |
+| **Backend & DB** | <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/></a> <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/></a> |
+| **AI / ML / DL** | <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch"/></a> <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="Scikit-Learn"/></a> |
+| **Design & Tools** | <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/></a> <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"/></a> <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/></a> |
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
+---
 ---
 
 ## 📊 GitHub Stats
