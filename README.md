@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Maliha Akter Miti
 
-### ⚙️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CSE+Student;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
+### ⚙️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
 </div>
 
