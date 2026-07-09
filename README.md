@@ -99,6 +99,6 @@ I love solving real-world problems through software development and continuously
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thank for visiting my profile!
 
 </div>
