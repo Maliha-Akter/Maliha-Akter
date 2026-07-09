@@ -68,7 +68,7 @@ I love solving real-world problems through software development and continuously
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maliha-Akter&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Maliha-Akter&theme=github-dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 </p>
 
 <br>
