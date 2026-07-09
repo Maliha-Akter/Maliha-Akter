@@ -96,9 +96,14 @@ I love solving real-world problems through software development and continuously
 </p>
 
 ---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Maliha-Akter&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 <div align="center">
 
-⭐ Thank for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 </div>
