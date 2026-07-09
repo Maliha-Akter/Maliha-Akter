@@ -56,9 +56,9 @@ I love solving real-world problems through software development and continuously
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maliha-Akter&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maliha-Akter&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliha-Akter&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maliha-Akter&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
