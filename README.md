@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Maliha%20Akter%20Miti&fontSize=40&fontColor=ffffff"/>
+<!-- Custom Banner -->
+<img src="./banner.png" alt="GitHub Banner" width="100%" />
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 
